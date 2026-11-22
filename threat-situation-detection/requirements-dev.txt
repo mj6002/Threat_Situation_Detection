@@ -1,5 +1,0 @@
-# Light set used by CI and for running tests
-numpy
-pyyaml
-pytest
-ruff
