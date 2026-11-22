@@ -1,0 +1,5 @@
+# Heavy dependencies, install only when working on models or the dashboard
+torch
+torchvision
+ultralytics
+streamlit
